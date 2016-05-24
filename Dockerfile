@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER CenturyLinkLabs
+MAINTAINER NeoHan
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
